@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehadevi" alt="snehadevi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/snehadevi/snehadevi](https://github.com/snehadevi/snehadevi)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/snehadevi?tab=repositories)
 
 - 💬 Ask me about **react, nextjs and springboot**
 
